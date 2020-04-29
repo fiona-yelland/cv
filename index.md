@@ -15,7 +15,7 @@
                     <li><a href="#about">About</a></li>
                     <li><a href="#charity">Charity</a></li>
                     <li><a href="#social">Social</a></li>
-                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="contact.md">Contact</a></li>
                 </ul>
             </nav>
         </header>
