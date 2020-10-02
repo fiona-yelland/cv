@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html>
     <head>
         <title>Fiona Claire Yelland</title>
@@ -65,6 +63,7 @@
             <section id="charity">
                 <div class="section-inner">
                     <br>
+		    <br>
                     <h2>Charity</h2>
                     <div class="row">
                         <div class="column3" style="background-color:rgba(254, 102, 79, 0.712); margin: 10px; padding: 40px; column-width: 500px;">
